@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "다음",
+    "description": "The label for version current"
+  },
+  "sidebar.docsSidebar.category.Usage": {
+    "message": "사용법",
+    "description": "The label for category Usage in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.Features": {
+    "message": "기능",
+    "description": "The label for category Features in sidebar docsSidebar"
+  }
+}
