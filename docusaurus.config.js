@@ -9,6 +9,7 @@ const config = {
   title: 'Mocha Downloader Documentation',
   tagline: '',
   url: 'https://mocha-downloader.github.io',
+  trailingSlash: true,
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
