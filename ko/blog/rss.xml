@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Mocha Downloader Documentation Blog</title>
+        <link>https://mocha-downloader.github.io/ko/blog</link>
+        <description>Mocha Downloader Documentation Blog</description>
+        <lastBuildDate>Thu, 18 Nov 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hello World!!]]></title>
+            <link>https://mocha-downloader.github.io/ko/blog/hello-world</link>
+            <guid>hello-world</guid>
+            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is a test post]]></description>
+            <content:encoded><![CDATA[<h2>This is a test post</h2><p>More infromation can be found <a href="https://docusaurus.io/docs/markdown-features">here</a>.</p><h2>Comments</h2><pre><code class="language-md">&lt;!-- commented text are not visible --&gt;
+</code></pre><h2>Quotes</h2><blockquote><p>This is a quote</p></blockquote><pre><code class="language-md">&gt; This is a quote
+</code></pre><h2>Links</h2><ul><li>relative paths are supported.</li></ul><p>Link to a <a href="/docs/intro">page</a>.</p><pre><code class="language-md">Link to a [page](/docs/intro).
+</code></pre><p>Link to a <a href="https://google.com">site</a>.</p><pre><code class="language-md">Link to a [site](https://google.com).
+</code></pre><h2>List</h2><h3>Ordered List</h3><ol><li>first</li><li>second</li><li>third</li></ol><pre><code class="language-md">1. first
+2. second
+3. third
+</code></pre><h3>Unordered List</h3><ul><li>first</li><li>second</li><li>third</li></ul><pre><code class="language-md">- first
+- second
+- third
+</code></pre><h2>Table</h2><table><thead><tr><th align="right">A</th><th align="center">B</th><th align="left">C</th></tr></thead><tbody><tr><td align="right">a</td><td align="center">b</td><td align="left">c</td></tr><tr><td align="right">aa</td><td align="center">bb</td><td align="left">cc</td></tr><tr><td align="right">aaa</td><td align="center">bbb</td><td align="left">ccc</td></tr><tr><td align="right">aaaa</td><td align="center">bbbb</td><td align="left">cccc</td></tr><tr><td align="right">aaaaa</td><td align="center">bbbbb</td><td align="left">ccccc</td></tr></tbody></table><pre><code class="language-md">|     A |   B   | C     |
+| ----: | :---: | :---- |
+|     a |   b   | c     |
+|    aa |  bb   | cc    |
+|   aaa |  bbb  | ccc   |
+|  aaaa | bbbb  | cccc  |
+| aaaaa | bbbbb | ccccc |
+</code></pre><h2>Details</h2><details><summary>Toggle me!</summary><div><div>This is the detailed content</div><br/><details><summary>Nested toggle! Some surprise inside...</summary><div>Deez nutz</div></details></div></details><h2>Images</h2><p>Add an image at <code>static/img/test.png</code> and display it in Markdown:</p><p><img src="/img/test.png" alt="test image"/></p><pre><code class="language-md">![test image](/img/test.png)
+</code></pre><h2>Code Blocks</h2><pre><code class="language-jsx" metastring="title=&quot;src/components/Example.js&quot;" title="&quot;src/components/Example.js&quot;">function Example() {
+  return &lt;h1&gt;Example&lt;/h1&gt;;
+}
+</code></pre><pre><code>```jsx title=&quot;src/components/Example.js&quot;
+function Example() {
+  return &lt;h1&gt;Example&lt;/h1&gt;;
+}
+```
+</code></pre><h2>Admonitions</h2><p>:::info information
+This is an information.
+:::</p><pre><code class="language-md">:::info information
+This is an information.
+:::
+</code></pre><br/><p>:::tip tip
+This is a tip.
+:::</p><pre><code class="language-md">:::tip tip
+This is a tip.
+:::
+</code></pre><br/><p>:::warning warning
+Here be dragons.
+:::</p><pre><code class="language-md">:::warning warning
+Here be dragons.
+:::
+</code></pre><h2>React Components</h2><p>Click this -&gt; <div color="#25c2a0">Greed Button</div></p><p>And this -&gt; <div color="#1877F2">Blue Button</div></p><pre><code class="language-jsx">export const Highlight = ({ children, color }) =&gt; (
+  &lt;span
+    style={{
+      backgroundColor: color,
+      borderRadius: &#x27;20px&#x27;,
+      color: &#x27;#fff&#x27;,
+      padding: &#x27;10px&#x27;,
+      cursor: &#x27;pointer&#x27;,
+    }}
+    onClick={() =&gt; {
+      alert(`You clicked the color ${color} with label ${children}`);
+    }}
+  &gt;
+    {children}
+  &lt;/span&gt;
+);
+
+Click this -&gt; &lt;Highlight color=&quot;#25c2a0&quot;&gt;Greed Button&lt;/Highlight&gt;
+
+And this -&gt; &lt;Highlight color=&quot;#1877F2&quot;&gt;Blue Button&lt;/Highlight&gt;
+</code></pre>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

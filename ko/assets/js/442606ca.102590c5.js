@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmocha_downloader_github_io=self.webpackChunkmocha_downloader_github_io||[]).push([[615],{3826:function(t){t.exports=JSON.parse('{"/ko/blog/tags/test":{"allTagsPath":"/ko/blog/tags","slug":"/ko/blog/tags/test","name":"test","count":1,"permalink":"/ko/blog/tags/test"}}')}}]);
