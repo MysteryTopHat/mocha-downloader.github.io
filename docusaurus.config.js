@@ -16,6 +16,7 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'mocha-downloader', // Usually your GitHub org/user name.
   projectName: 'mocha-downloader.github.io', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
 
   i18n: {
     defaultLocale: 'en',
