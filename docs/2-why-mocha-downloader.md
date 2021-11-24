@@ -6,4 +6,6 @@ sidebar_position: 2
 
 ## privacy
 
+<!-- you can get DMCAed when downloading stuff especially torrent -->
+
 ## open source
