@@ -6,7 +6,7 @@ sidebar_position: 3
 
 ## Why's the file size so huge?
 
-We try to keep it under 150MB but it's rather large. This is because it's a browser, tor, and vid encoder.
+We try to keep the final size around 100MB but it's relatively larger than other downloaders out there. This is because it contains a browser, tor client, vid encoder, etc.
 
 ## More...
 
