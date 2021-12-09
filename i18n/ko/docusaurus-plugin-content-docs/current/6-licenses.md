@@ -2,11 +2,11 @@
 sidebar_position: 6
 ---
 
-# Licenses
+# 라이선스
 
-## Open Source Software
+## 오픈 소스 프로젝트
 
-These are the Open Source Software used by Mocha Downloader and their license arranged in alphabetical order:
+알파벳순으로 정렬된 모카 다운로더가 사용하는 오픈 소스 프로젝트와 라이선스:
 
 |                    Project | License                                                                                           |
 | -------------------------: | :------------------------------------------------------------------------------------------------ |
@@ -21,9 +21,9 @@ These are the Open Source Software used by Mocha Downloader and their license ar
 |          semantic-ui-react | [MIT](https://github.com/Semantic-Org/Semantic-UI-React/blob/master/LICENSE.md)                   |
 |          styled-components | [MIT](https://github.com/styled-components/styled-components/blob/main/LICENSE)                   |
 
-## Images and Icons
+## 이미지 및 아이콘
 
-- Logo made by [Andreas Storm](https://codepen.io/avstorm/pen/RwNzPNN) (original: [icons8 animated icons](https://icons8.com/free-animated-icons/tea))
-- youtube icon from [YouTube](https://youtube.com) website
-- Naver Comics icon from [Naver Comics](https://comic.naver.com) website
-- bittorrent icon from [papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
+- 로고 제작 [Andreas Storm](https://codepen.io/avstorm/pen/RwNzPNN) (원본: [icons8 animated icons](https://icons8.com/free-animated-icons/tea))
+- 유튜브 아이콘: [유튜브](https://youtube.com) 웹사이트
+- 네이버 웹툰 아이콘: [네이버 웹툰](https://comic.naver.com) 웹사이트
+- 토렌트 아이콘: [papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
