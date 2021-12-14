@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Frequently Asked Questions
+# Q&A
 
 ## Why's the file size so huge?
 
