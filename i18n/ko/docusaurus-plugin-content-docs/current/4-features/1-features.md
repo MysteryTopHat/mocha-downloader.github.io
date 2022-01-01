@@ -11,8 +11,6 @@ slug: /features
 
 흔적을 남기지 않습니다.
 
-## tor 연결
-
 ## UI
 
 - 다크 모드
@@ -57,8 +55,6 @@ slug: /features
 
   - [베스트 도전](https://comic.naver.com/genre/bestChallenge)
   - [도전 만화](https://comic.naver.com/genre/challenge)
-
-- [카카오 웹툰](https://webtoon.kakao.com)
 
 - 한 화 다운로드
 - 작품 다운로드

@@ -11,8 +11,6 @@ slug: /features
 
 leaves no trace.
 
-## tor connection
-
 ## UI
 
 - dark theme
@@ -53,12 +51,10 @@ Currently supported languages:
 
 ## Webtoon
 
-- [naver Comics](https://comic.naver.com)
+- [Naver Comics](https://comic.naver.com)
 
   - [Best challenge](https://comic.naver.com/genre/bestChallenge)
   - [Challenge](https://comic.naver.com/genre/challenge)
-
-- [Kakao webtoon](https://webtoon.kakao.com)
 
 - Download an episode
 - Download multiple episodes
