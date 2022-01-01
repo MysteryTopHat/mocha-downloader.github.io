@@ -15,11 +15,13 @@ These are the Open Source Software used by Mocha Downloader and their license ar
 |                   electron | [MIT](https://github.com/electron/electron/blob/main/LICENSE)                                     |
 |           electron-builder | [MIT](https://github.com/electron-userland/electron-builder/blob/master/LICENSE)                  |
 | electron-react-boilerplate | [MIT](https://github.com/electron-react-boilerplate/electron-react-boilerplate/blob/main/LICENSE) |
-|                ffmpeg.wasm | [MIT](https://github.com/ffmpegwasm/ffmpeg.wasm/blob/master/LICENSE)                              |
-|                      lowdb | [MIT](https://github.com/typicode/lowdb/blob/main/LICENSE)                                        |
+|                    i18next | [MIT](https://github.com/i18next/i18next/blob/master/LICENSE)                                     |
 |                      react | [MIT](https://github.com/facebook/react/blob/main/LICENSE)                                        |
 |          semantic-ui-react | [MIT](https://github.com/Semantic-Org/Semantic-UI-React/blob/master/LICENSE.md)                   |
 |          styled-components | [MIT](https://github.com/styled-components/styled-components/blob/main/LICENSE)                   |
+|                 webtorrent | [MIT](https://github.com/webtorrent/webtorrent/blob/master/LICENSE)                               |
+|                  ytdl-core | [MIT](https://github.com/fent/node-ytdl-core/blob/master/LICENSE)                                 |
+|                       ytpl | [MIT](https://github.com/TimeForANinja/node-ytpl/blob/master/LICENSE)                             |
 
 ## Images and Icons
 
