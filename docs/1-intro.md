@@ -6,4 +6,4 @@ sidebar_position: 1
 
 Pronunciation: ˈmōkə (moka)
 
-Mocha Downloader is a downloader :)
+Mocha Downloader is a simple all-in-one download utility for downloading content from the web.
