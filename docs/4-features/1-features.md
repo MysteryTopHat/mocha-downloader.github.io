@@ -1,13 +1,12 @@
 ---
 sidebar_position: 1
-slug: /features
 ---
 
 # Features
 
 ## Auto Update
 
-## Portable
+## Portability
 
 leaves no trace.
 

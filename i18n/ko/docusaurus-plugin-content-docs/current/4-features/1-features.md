@@ -1,13 +1,12 @@
 ---
 sidebar_position: 1
-slug: /features
 ---
 
 # 기능들
 
 ## 자동 업데이트
 
-## 휴대용
+## 휴대성
 
 흔적을 남기지 않습니다.
 
