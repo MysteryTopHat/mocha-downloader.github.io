@@ -2,10 +2,10 @@
 sidebar_position: 1
 ---
 
+# 인트로
+
 [![디스코드 지원 서버](https://shields.io/badge/디스코드-지원-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/aQqamSCUcS)
 [![다운로드](https://shields.io/badge/깃허브-다운로드-black?logo=github&style=for-the-badge)](https://github.com/Mocha-Downloader/mocha-downloader/releases/latest)
-
-# 인트로
 
 모카 다운로더는 웹에서 컨텐츠를 다운로드하기 위한 간단한 다운로드 유틸리티입니다.
 

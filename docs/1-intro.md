@@ -2,10 +2,10 @@
 sidebar_position: 1
 ---
 
+# Intro
+
 [![Discord support server](https://shields.io/badge/discord-support-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/aQqamSCUcS)
 [![Download](https://shields.io/badge/github-download-black?logo=github&style=for-the-badge)](https://github.com/Mocha-Downloader/mocha-downloader/releases/latest)
-
-# Intro
 
 Pronunciation: ˈmōkə (moka)
 
