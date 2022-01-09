@@ -2,8 +2,8 @@
 sidebar_position: 1
 ---
 
-[![Discord support server](https://shields.io/badge/discord-support-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/aQqamSCUcS)
-[![Download](https://shields.io/badge/github-download-black?logo=github&style=for-the-badge)](https://github.com/Mocha-Downloader/mocha-downloader/releases/latest)
+[![디스코드 지원 서버](https://shields.io/badge/디스코드-지원-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/aQqamSCUcS)
+[![다운로드](https://shields.io/badge/깃허브-다운로드-black?logo=github&style=for-the-badge)](https://github.com/Mocha-Downloader/mocha-downloader/releases/latest)
 
 # 인트로
 
